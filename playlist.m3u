@@ -108,10 +108,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/60" group-title="Movies",Goldmines Movies
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/60" group-title="Movies",Goldmines Movies 2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/60" group-title="News",CNN
