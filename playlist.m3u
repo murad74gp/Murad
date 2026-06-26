@@ -39,7 +39,7 @@ https://cdn-4.pishow.tv/live/969/master.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Entertainment",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Entertainment",Deshi TV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/Deshi%20Tv.jpeg" group-title="Entertainment",Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Desh TV (1080p)" group-title="Entertainment",Desh TV (1080p)
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
