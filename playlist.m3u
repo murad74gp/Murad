@@ -105,3 +105,27 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" group-title="Documentary",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_logo.svg/200px-Sony_Aath_logo.svg.png" group-title="Bangla",Sony Aath
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Star_Jalsha_logo.svg/200px-Star_Jalsha_logo.svg.png" group-title="Bangla",Jalsha Movies HD
+https://s2.itcnbd.live/jalsha-movies-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Discovery_Channel_logo.svg/200px-Discovery_Channel_logo.svg.png" group-title="Documentary",Discovery HD
+https://server.itcnbd.live/stream/discovery_hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/87/RTV_logo.svg/200px-RTV_logo.svg.png" group-title="Bangla",RTV
+https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/9/90/Nagorik_TV_logo.png/200px-Nagorik_TV_logo.png" group-title="Bangla",Nagorik TV
+http://180.94.28.28:8097/Nagorik-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Asian_TV_Logo.png/200px-Asian_TV_Logo.png" group-title="Bangla",Asian TV
+https://trs1.aynaott.com/asiantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/b/b8/Ekhon_TV_Logo.png/200px-Ekhon_TV_Logo.png" group-title="Bangla",Ekhon TV
+https://server.itcnbd.live/stream/ekhon_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/18/Bijoy_TV_logo.png/200px-Bijoy_TV_logo.png" group-title="Bangla",Bijoy TV
+https://s5.itcnbd.live/stream/bijoytv.m3u8
+#EXTINF:-1 tvg-logo="https://alvetv.com/logo.png" group-title="Bangla",Movie Bangla TV
+http://alvetv.com/moviebanglatv/8080/5794.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/6/66/Nexus_TV_Logo.png/200px-Nexus_TV_Logo.png" group-title="Bangla",Nexus TV
+https://s5.itcnbd.live/stream/nexus_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/a/a2/Global_TV_Bangladesh_Logo.png/200px-Global_TV_Bangladesh_Logo.png" group-title="Bangla",Global TV
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Sony_MAX_logo.svg/200px-Sony_MAX_logo.svg.png" group-title="Movies",Sony Max
+https://server.itcnbd.live/stream/sony_max.m3u8
