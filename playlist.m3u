@@ -79,7 +79,7 @@ https://s5.itcnbd.live/stream/nexus_tv.m3u8
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Channel-16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg"group-title="Entertainment" group-title="",Star News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg"group-title="Entertainment",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 
 # News
