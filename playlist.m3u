@@ -43,7 +43,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/Deshi%20Tv.jpeg" group-title="Entertainment",Deshi Tv 
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/desh%20tv.jpg tv.png" group-title="Entertainment",Desh TV (1080p) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm8MxfzfpLZ0GgDwc46YYUNjYwzie4bPR-r-CR7JLtA&s=10" group-title="Entertainment",Desh TV (1080p) 
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/Boishakhi%20.webp" group-title="Entertainment",Boishakhi TV 
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
