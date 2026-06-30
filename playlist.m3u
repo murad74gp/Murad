@@ -9,6 +9,10 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" group-title="Sports",Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-name="PTV Sports" group-title="Sports",PTV Sports
+http://121.200.62.38:8099/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="PTV Sports 2" group-title="Sports",PTV Sports 2
+http://121.200.62.38:8099/PTV-SPORTS/tracks-v1a1/2026/06/29/21/54/01-06000.ts
 #EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
