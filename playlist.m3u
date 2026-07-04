@@ -1,5 +1,4 @@
 #EXTM3U
-
 # Sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/T%20Sports%20.jpg" group-title="Sports",T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
@@ -11,7 +10,6 @@ http://114.130.57.233:8080/BTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 http://103.147.169.98:8099/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/T%20Sports%20.jpg" group-title="Sports",T Sports HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-
 # Entertainment
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/zee%20bangla.jpeg" group-title="Entertainment",Zee Bangla
 https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
