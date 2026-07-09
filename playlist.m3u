@@ -229,10 +229,91 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Yrf Music
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/Sangeet_Bangla_logo_%282018%29.png/revision/latest?cb=20210423122202" group-title="Music",Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/Sangeet_Bangla_logo_%282018%29.png/revision/latest?cb=20210423122202" group-title="MUSIC",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="MUSIC",IN | Zoom TV
+http://mxonlive.xyz/live/xap/66190.m3u8?e=1783659239&token=b0bccb68b7ff8c02136fd4a3786eae7cba72a0bb2d89abcfbafa73b96cf0ea18
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="MUSIC",IN | 9xm
+http://mxonlive.xyz/live/xap/66192.m3u8?e=1783659239&token=019d5cc11e5a19b246f9ec68dec266793889ecbdeabfcdcc10ec0f14fa278ab0
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="MUSIC",IN | B4u Music
+http://mxonlive.xyz/live/xap/66203.m3u8?e=1783659239&token=eb6d90e99459cf4c5c54c5d3aaf274de45c598ad11240367fe73ad97fc65beb2
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="MUSIC",IN | 9x Jalwa
+http://mxonlive.xyz/live/xap/66226.m3u8?e=1783659239&token=0ccaa2a0756a1d0f61e1bc6529f2987345e6752aa476be84c8f91fd5022c49d7
+#EXTINF:-1 tvg-id="" tvg-name="IN | MTV BEAT" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="MUSIC",IN | MTV BEAT
+http://mxonlive.xyz/live/xap/66273.m3u8?e=1783659239&token=6ae78b0ee2a0d0fc5e74342199e0b5e2431d3e606351218609809fd283075e53
+#EXTINF:-1 tvg-id="" tvg-name="IN | YRF MUSIC" tvg-logo="" group-title="MUSIC",IN | YRF MUSIC
+http://mxonlive.xyz/live/xap/383530.m3u8?e=1783659239&token=4a4f7425e432e11124887c9d6aea79e883c758122b7b4006e150bd922e783422
+#EXTINF:-1 tvg-id="" tvg-name="IN | SHOWBOX MUSIC" tvg-logo="" group-title="MUSIC",IN | SHOWBOX MUSIC
+http://mxonlive.xyz/live/xap/383529.m3u8?e=1783659239&token=18730dfccdde9a865140b2f073e92148db57d4b60826b7b248968bd833b7fcb2
+#EXTINF:-1 tvg-id="" tvg-name="ind-pun: Pittara TV" tvg-logo="" group-title="MUSIC",ind-pun: Pittara TV
+http://mxonlive.xyz/live/xap/66285.m3u8?e=1783659239&token=682c557b825136ad68b674a14f813418598f570c870ad3166f4905d5ad25f7ae
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="MUSIC",IN | 9x Tashan
+http://mxonlive.xyz/live/xap/66289.m3u8?e=1783659239&token=24c7ef0cc15dd8d17fa6d673208b5d76a1f31b91a3b2e1c192ccb5c5c01310a6
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="MUSIC",IN: Mastii
+http://mxonlive.xyz/live/xap/112988.m3u8?e=1783659239&token=bf9d8ef32b939bde8db6fa28a642204e5175a5425b9e34e40b29aa56fa0c3349
+#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="IN: UTV Bindass" tvg-logo="" group-title="MUSIC",IN: UTV Bindass
+http://mxonlive.xyz/live/xap/112993.m3u8?e=1783659239&token=71f32f3f2ed5b420d194aa5f72b0a45cece41fbe920838bf14f481be39e1fbcf
+#EXTINF:-1 tvg-id="" tvg-name="IND-Punjabi: PTC MUSIC" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="MUSIC",IND-Punjabi: PTC MUSIC
+http://mxonlive.xyz/live/xap/153373.m3u8?e=1783659239&token=3156ba40fc7e3cf45c9451462b479d33c004f1f3cacb9d2ee76f370162e6112e
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="MUSIC",MUSIC INDIA
+http://mxonlive.xyz/live/xap/190028.m3u8?e=1783659239&token=c1fa403d634a7c9a28185a67bbc09947810b607994bceb62b81451662eeeb9f1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood" tvg-logo="" group-title="MUSIC",IN: Boogle Bollywood
+http://mxonlive.xyz/live/xap/206045.m3u8?e=1783659239&token=c6304514009b8ee613c5a1475336dd53ce23f1f4404d85df8d0f62597bc1aafe
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="MUSIC",IND: MTV HD +
+http://mxonlive.xyz/live/xap/206049.m3u8?e=1783659239&token=c9985b5c0192b1709fb4bba878fc7dcc4b7c9c61fe8410c2c3d1a96d83c49595
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="MUSIC",IND: MTV India
+http://mxonlive.xyz/live/xap/206054.m3u8?e=1783659239&token=d82f8b6cc43509be765add881e930e187e5cdfa8419884902d0698a7eee743ed
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Balle Balle" tvg-logo="" group-title="MUSIC",IND:PB: Balle Balle
+http://mxonlive.xyz/live/xap/219495.m3u8?e=1783659239&token=2ae70639650985ba88d79d9f1f7761ae154a789c9901d98cac2134f91fdb6d9b
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Wah Punjabi" tvg-logo="" group-title="MUSIC",IND:PB: Wah Punjabi
+http://mxonlive.xyz/live/xap/219496.m3u8?e=1783659239&token=4778ef2069e50ff7b672f57a0ae86029e9b11fb9ff63e0acd3bd4eebd3fab740
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="MUSIC",IND: ZING
+http://mxonlive.xyz/live/xap/219497.m3u8?e=1783659239&token=391e4503356c2990dfb1d203b1ff94edd10245e9e7675e1c268369dd5fb90775
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 18
+http://mxonlive.xyz/live/xap/362865.m3u8?e=1783659239&token=1fd390d8dd6d151484afefb17f741255ff583f089a8882f0cec460c4878b58b6
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 19
+http://mxonlive.xyz/live/xap/362866.m3u8?e=1783659239&token=f56434ff3720f2eda292b9fad12686f9984ea94f7e8d4de8a667a0b662f6ca9b
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 20
+http://mxonlive.xyz/live/xap/362867.m3u8?e=1783659239&token=eabd68ff96e576f412f9611c7b2a728f1b726698065a445c48b31ae6624ad6d4
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 21
+http://mxonlive.xyz/live/xap/362868.m3u8?e=1783659239&token=9176bf2f6e2554116bc55a5201bf08bff66b92ee1537a0c134d95dd6699cff98
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",IN: 24/7 MUSIC 01
+http://mxonlive.xyz/live/xap/219498.m3u8?e=1783659239&token=5fd55c973b5fae7d3e737ada0479aa7bc9a5d3cbeb94c5b8e46ce939abf02272
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",IN: 24/7 MUSIC 02
+http://mxonlive.xyz/live/xap/270503.m3u8?e=1783659239&token=7239ec5735c2b86848969eecf4bc03206b514fbe72c5ab7c19b95e08aafb4333
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",IN: 24/7 MUSIC 03
+http://mxonlive.xyz/live/xap/270504.m3u8?e=1783659239&token=3c626c593175c5b248a6ac3a95da623af867b0882244422fca52f2f890bbe774
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 04
+http://mxonlive.xyz/live/xap/270505.m3u8?e=1783659239&token=acb411ce2a83ead5da8aea9ac6cf6cb707ab9c758ac914cbd6f5af6e65553147
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 05
+http://mxonlive.xyz/live/xap/270506.m3u8?e=1783659239&token=b7346ee4fbe1fe52804f3066b8f3841508be7324c804113674a997c9d30c5f0f
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 06
+http://mxonlive.xyz/live/xap/270507.m3u8?e=1783659239&token=0d9c9de3eb7255be4ff2c73180527308e04c7103fc49f820ba0531bb6d5a4276
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 07
+http://mxonlive.xyz/live/xap/270508.m3u8?e=1783659239&token=9d40e3982205cc443ce98aee4ab3af8d424b1598177a887e724105df602cbb13
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 08
+http://mxonlive.xyz/live/xap/270509.m3u8?e=1783659239&token=ced86720a4ebefcfa5a3b836b1411c49c4dfb7a05baf6f056caf306d9a93a76c
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 09
+http://mxonlive.xyz/live/xap/270510.m3u8?e=1783659239&token=364d950d0a025c571315f8ab1581eb3ba9e98f1f60eca9730cf1d4ff29aea982
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 10
+http://mxonlive.xyz/live/xap/270511.m3u8?e=1783659239&token=b216171663f73eb5cbef84e7c615284335b33723b351dc019a7fe94ad43ee4c9
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 11
+http://mxonlive.xyz/live/xap/270512.m3u8?e=1783659239&token=5f82e4f10bdd81ce585e1b825a368da2f377fef0c7ade22493d652727f864816
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 12
+http://mxonlive.xyz/live/xap/270513.m3u8?e=1783659239&token=5557d3e7ed82e334845e09e70769f8534342ce2476472f4f98c343668d2abd6f
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 13
+http://mxonlive.xyz/live/xap/270514.m3u8?e=1783659239&token=915fb566aeda0868f09d33e8a403637c2e2d35c4426c1ca85e6a4d952dec5af8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 14
+http://mxonlive.xyz/live/xap/270515.m3u8?e=1783659239&token=e96d767e44f5b4ff7b6369e0130d2c3714faf3ffb540f40b36f3199bf28b88ea
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 15
+http://mxonlive.xyz/live/xap/270516.m3u8?e=1783659239&token=3f11d088cf20bf27878e1632d4bb3b125e8e4392ad33692ad460604a150f6784
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 16
+http://mxonlive.xyz/live/xap/270517.m3u8?e=1783659239&token=38a1ed327275313a09645518c103c47b713896077d4e0b9c53b138dec38c9d9a
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="MUSIC",24/7 MUSIC 17
+http://mxonlive.xyz/live/xap/270518.m3u8?e=1783659239&token=6bae715337f1aa7e0b1e2435be4e59cd27d36780022f7160971c9665e27aef56
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Religion",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Religion",Madani TV
