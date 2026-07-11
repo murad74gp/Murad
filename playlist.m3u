@@ -14,8 +14,12 @@ http://103.191.99.248:5550/101/index.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/T%20Sports%20.jpg" group-title="Sports",T Sports HD
 http://103.191.99.248:5550/102/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports
+http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/zee%20bangla.jpeg" group-title="Entertainment",Zee Bangla
 https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/zee%20bangla.jpeg" group-title="Entertainment",Zee Bangla HD
+http://103.158.133.53:8080/Zee_bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiOWMPWykuSc67YCeD5EAu_5mCEJMnbRxlPjuFf--Iw&s" group-title="Entertainment",Star Jalsha
 http://103.191.99.248:5550/302/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/5a/Colors_Bangla_HD_with_tagline_%282016%29.png/revision/latest/scale-to-width-down/250?cb=20210507225144" group-title="Entertainment",Colors Bangla HD
@@ -82,7 +86,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150?text=Bijoy+TV" group-title="Bangla",Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Gazi tv
-http://180.94.28.28:8097/GAZI-TV/index.fmp4.m3u8
+http://103.16.24.4:8083/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxyNJrGm/ATN-News.jpg" group-title="News",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg" group-title="News",Star News
@@ -210,8 +214,7 @@ https://stream.ottplus.bd/live/zee_action_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/60" group-title="Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max-hd.png" group-title="Movies",Sony MAX HD
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
+https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Sony Max 2
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Action Hollywood Movies
