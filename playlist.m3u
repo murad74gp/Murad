@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/T%20Sports%20.jpg" group-title="Sports",T Sports
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://103.191.99.248:5550/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/somoy%20tv.png" group-title="Sports",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg" group-title="Sports",Btv
