@@ -28,6 +28,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150?text=Jalsha+Movies+HD" group-title="Entertainment",Jalsha Movies HD
 http://103.191.99.248:5550/303/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Sony Entertainment 
+https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/G-Series_Logo.png" group-title="Entertainment",G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/Channel_1_Logo_Bangladesh.png" group-title="Bangla",Channel 1
@@ -156,8 +158,6 @@ https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Lotus
 https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Sony Entertainment 
-https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Motu Patlu
