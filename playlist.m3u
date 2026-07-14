@@ -24,10 +24,12 @@ http://103.191.99.248:5550/302/tracks-v1a1/mono.m3u8
 http://103.191.99.248:5550/304/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/Enter%2010%20Bangla.jpeg" group-title="Entertainment",Enter 10 Bangla SD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/SUN BANGLA.png" group-title="Entertainment",Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/SUN BANGLA.png" group-title="Entertainment",Sun Bangla HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908685.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150?text=Sony+Aath" group-title="Entertainment",Sony Aath
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150?text=Jalsha+Movies+HD" group-title="Entertainment",Zee Tv HD
-https://stream.ottplus.bd/live/zee_tv_hd_abr/live/zee_tv_hd_720/l_154033_23544000_5886.ts?nimblesessionid=32098557
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Sony Entertainment 
 https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/murad74gp/Murad/refs/heads/icon-/logo/G-Series_Logo.png" group-title="Entertainment",G-Serise
